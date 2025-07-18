@@ -1,0 +1,5 @@
+{
+  "name": "R6 Operator Forge",
+  "description": "Create a custom operator from Rainbow Six Siege by merging loadouts, utility, and unique abilities. The app uses AI to generate a backstory, balance analysis, and a unique operator icon.",
+  "requestFramePermissions": []
+}
